@@ -1,29 +1,14 @@
-# README #
+## About
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This is a Web API application running .NET Core 3.1.
+The reason of this application is for leaning MongoDB and Repository Pattern.
+This way the application can have a base repository which can be used for all entities.
 
-### What is this repository for? ###
+---
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Technical requirements
 
-### How do I get set up? ###
+- ASP.NET Core 3.1
+- MongoDB
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+---
